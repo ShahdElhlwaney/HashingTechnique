@@ -4,13 +4,13 @@ searching.The time taken for searching in linear search is O(n), while in a bina
 what would you do if you want the shorter time?
 This repository provides an explanation of everything related to Hashing Technique
 ## Table of contents
-- [Hashing Technique Overview](#HashingTechniqueOverview)
-- [Ideal Hashing](#IdealHashing)
+- [Hashing Technique Overview](#hashing-technique-overview)
+- [Ideal Hashing](#ideal-hashing)
 - [Collision](#collision)
 - [Chaining](#chaining)
-- [Linear Probing](#LinearProbing)
-- [Quadratic Probing](#QuadraticProbing)
-- [Double Hashing](#DoubleHashing)
+- [Linear Probing](#linear-probing)
+- [Quadratic Probing](#quadratic-probing)
+- [Double Hashing](#double-hashing)
 ## Hashing Technique Overview
 In general, Hashing is a technique in computer science that uses a hash function to convert 
 data(such as a key or input) into a fixed-size string of characters, known as a hash code.The
